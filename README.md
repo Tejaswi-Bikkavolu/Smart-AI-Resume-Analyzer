@@ -1,7 +1,7 @@
 
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
-<img src="https://socialify.git.ci/Hunterdii/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
+
 
 <div align="center">
 
@@ -52,15 +52,8 @@
     <span> · </span>
     <a href="mailto:het8185@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
   </h4>
-  <p>
-    <small align="justify">
-      Built with <img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="25" height="25"> by 
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
-     </small>
-  </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
-    <a href="https://paruluniversity.ac.in/">Parul University</a> during academic year 2024-25
-  </small>
+  
+ 
 </div><br/><br/>
 </div>  
 
@@ -179,7 +172,7 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
+   git clone https://github.com/Tejaswi-Bikkavolu/resume-analyzer-ai.git
    cd Smart-AI-Resume-Analyzer
    ```
 
@@ -217,8 +210,7 @@ Ensure that the necessary NLP model is installed:
    ```bash
    python -m spacy download en_core_web_sm
    ```
-   
-``Congratulations 🥳😱 your set-up 👆 and installation is finished 🥳😱``
+  
 
 
 5. **Configure Environment Variables (Mandatory for AI-Analyzer Functionality):**
@@ -364,7 +356,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Known Bug 🚨 Autofill Glitch in Resume Builder!  
 
-### What's Happening? 🤔  
+### What's Happening?  
 If you're using the **Browser's (e.g., Chrome, Edge, etc.) Autofill** feature to quickly fill out your **Name**, **Email**, and **Phone** details in our **Smart AI Resume Analyzer**, you might encounter this error in generating Resume:  
 **"⚠️ Please enter your email address."**  
 
@@ -381,7 +373,7 @@ Don't worry—it's a simple fix!
 ### Why Does This Happen? 🌐  
 This is a **known issue with the resume builder feature**, where the autofill behavior of browsers (e.g., Chrome, Edge, etc.) doesn't trigger the necessary validation for some input fields. By manually editing the email, the system recognizes it correctly.  
 
-We're actively working on a permanent fix to ensure your experience is seamless. Thank you for your understanding and support! 🙏  
+We're actively working on a permanent fix to ensure your experience is seamless. Thank you for your understanding and support! 
 
 
 ## 🎯 **Why Choose Smart Resume AI?**  
@@ -571,48 +563,6 @@ Join the mission! Here's how:
 </table>  
 </div>  
 
-> Note: **Time Taking For scraping so have Patience**
-
-## 🎨 **Interactive Resume Templates**  
-
-| ![Modern Template](https://github.com/user-attachments/assets/63a7c783-9903-4e45-bdc7-3bfb41f2606b) | ![Minimal Template](https://github.com/user-attachments/assets/ea1ade65-a726-4c67-a19c-2b29d8ab748e) |  
-|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|  
-| **Modern Template** - Polished & stylish                                  | **Minimal Template** - Clean & elegant                                     |  
-
-| ![Professional Template](https://github.com/user-attachments/assets/003532ae-99ec-41b7-a258-05bf3f97a4cc) | ![Creative Template](https://github.com/user-attachments/assets/0fc2aa14-e24b-473d-964e-2900e49631f1) |  
-|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|  
-| **Professional Template** - Industry-standard                                     | **Creative Template** - Unique & visually appealing                          |  
-
-
-## 📄 **License**  
-
-This project is licensed under the [MIT License](https://github.com/Hunterdii/resume-analyzer-ai/blob/main/LICENSE).  
-
-
-## 🌟 **GitHub Repo**  
-
-Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
-
-## 🛡️ Maintainer  
-
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
-
-
-## 📰 News  
-**Practice, practice, practice!** Keep working hard, and it will all fall into place. No shortcuts in this Field! 🛠️  
-> Stay curious and keep learning. 🚀
 
 
 
-## 💖 **How You Can Support**
-
-If you appreciate this repository and want to show your support, you can do so through these platforms:
-
-| ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
-
-**Thank you for your support! Every bit helps keep this repository going.** 🌈✨
